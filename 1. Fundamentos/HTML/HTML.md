@@ -17,7 +17,7 @@ Dominar la estructura y sintaxis de HTML para construir páginas web con un marc
     - **Atributo `href`:** Define la URL a la que apunta el enlace.
     - **Navegación Relativa vs Absoluta:** Diferencias entre rutas relativas y absolutas.
     - **Anclajes Internos:** Uso de `id` y enlaces para navegar dentro de la misma página.
-4. **Imágenes y Multimedia**
+4. **[[Imágenes y Multimedia]]**
     - **Elemento `<img>`:** Incluir imágenes con atributos como `src`, `alt` (para accesibilidad), y `title`.
     - **Imágenes Responsivas:** Uso de `srcset` y `sizes` para servir imágenes de diferentes resoluciones según el dispositivo.
     - **Multimedia:** Integración de video y audio con las etiquetas `<video>` y `<audio>`.
@@ -26,14 +26,14 @@ Dominar la estructura y sintaxis de HTML para construir páginas web con un marc
     - **Etiquetas de Formulario:** Uso de etiquetas como `<input>`, `<textarea>`, `<label>`, `<select>`, y `<button>`.
     - **Validación de Formularios:** Implementar validación básica utilizando atributos como `required`, `pattern`, y `maxlength`.
     - **Formularios Accesibles:** Relacionar `<label>` con `<input>` mediante `for` y `id` para mejorar la accesibilidad.
-6. **Listas y Tablas**
+6. **[[Listas y Tablas]]**
     - **Listas Desordenadas y Ordenadas:** Uso de `<ul>` y `<ol>` para listas, y `<li>` para elementos de lista.
     - **Tablas:** Crear tablas usando `<table>`, `<tr>`, `<th>`, `<td>`, y aplicar estilos para mejorar la legibilidad.
     - **Listas y Tablas Accesibles:** Uso de atributos como `scope` y `summary` para mejorar la accesibilidad.
 7. **Buenas Prácticas en HTML**
     - **HTML Limpio y Legible:** Mantener un código limpio y legible con indentación y comentarios.
     - **Accesibilidad:** Implementar prácticas como el uso de etiquetas semánticas, `alt` en imágenes, y `aria-label` donde sea necesario.
-    - **SEO Básico:** Uso de etiquetas correctas como `<meta>` para palabras clave y descripciones, y `<h1>` a `<h6>` para estructurar el contenido.
+    - **[[SEO]] Básico:** Uso de etiquetas correctas como `<meta>` para palabras clave y descripciones, y `<h1>` a `<h6>` para estructurar el contenido.
     - **Minificación de HTML:** Técnicas para reducir el tamaño del archivo HTML en producción (opcional).
 
 #### **Recursos Adicionales**

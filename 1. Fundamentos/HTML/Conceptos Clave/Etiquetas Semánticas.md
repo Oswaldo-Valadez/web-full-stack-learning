@@ -21,7 +21,7 @@ Las etiquetas semánticas son elementos de HTML que expresan claramente la natur
 #### **Beneficios**
 
 1. **Accesibilidad:** Facilitan la navegación y la interpretación del contenido por parte de lectores de pantalla y otras tecnologías asistivas, lo que mejora la experiencia de usuarios con discapacidades.
-2. **SEO (Search Engine Optimization):** Los motores de búsqueda utilizan estas etiquetas para entender mejor la estructura del contenido y la jerarquía de información, lo que ayuda a mejorar el ranking en los resultados de búsqueda.
+2. **[[SEO]] (Search Engine Optimization):** Los motores de búsqueda utilizan estas etiquetas para entender mejor la estructura del contenido y la jerarquía de información, lo que ayuda a mejorar el ranking en los resultados de búsqueda.
 3. **Mantenimiento y Escalabilidad:** El uso de etiquetas semánticas hace que el código sea más fácil de leer y mantener, permitiendo a otros desarrolladores comprender rápidamente la estructura de la página.
 
 #### **Prácticas Recomendadas**

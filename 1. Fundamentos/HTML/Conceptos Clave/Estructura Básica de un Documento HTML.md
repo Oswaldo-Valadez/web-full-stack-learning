@@ -13,8 +13,8 @@
 
 - **Descripción:** Contiene metadatos y enlaces que no son visualizados directamente en la página pero son esenciales para su funcionamiento y presentación.
 - **Componentes Principales:**
-    - **`<title>`:** Define el título de la página, que aparece en la pestaña del navegador y es crucial para SEO y usabilidad.
-    - **`<meta>`:** Incluye metadatos como la codificación de caracteres (`<meta charset="utf-8">`), compatibilidad con dispositivos móviles (`<meta name="viewport" content="width=device-width, initial-scale=1.0">`), y descripciones SEO.
+    - **`<title>`:** Define el título de la página, que aparece en la pestaña del navegador y es crucial para [[SEO]] y usabilidad.
+    - **`<meta>`:** Incluye metadatos como la codificación de caracteres (`<meta charset="utf-8">`), compatibilidad con dispositivos móviles (`<meta name="viewport" content="width=device-width, initial-scale=1.0">`), y descripciones [[SEO]].
     - **`<link>`:** Utilizado para vincular hojas de estilo externas, íconos de pestaña, y otros archivos externos.
     - **`<script>`:** Para incluir scripts de JavaScript, ya sea internos o externos.
     - **`<style>`:** Permite escribir CSS directamente dentro del documento HTML.
@@ -63,4 +63,4 @@
 
 ---
 
-Este esquema no solo es esencial para el correcto funcionamiento de una página web, sino que también facilita la accesibilidad, mejora el SEO y proporciona una estructura clara para el desarrollo y mantenimiento del sitio.
+Este esquema no solo es esencial para el correcto funcionamiento de una página web, sino que también facilita la accesibilidad, mejora el [[SEO]] y proporciona una estructura clara para el desarrollo y mantenimiento del sitio.

@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cf5a8739bbe97955",
+        "id": "af38ecedbd62a5b8",
         "type": "tabs",
         "children": [
           {
-            "id": "0ef68caf8b3d4c82",
+            "id": "0f7a237102aaae54",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "1. Fundamentos/1. Fundamentos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Fundamentos/1. Fundamentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Fundamentos/1. Fundamentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Fundamentos/1. Fundamentos.md"
+              }
             }
           },
           {
@@ -149,19 +154,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ef68caf8b3d4c82",
+  "active": "0f7a237102aaae54",
   "lastOpenFiles": [
-    "1. Fundamentos/1. Fundamentos.md",
-    "1. Fundamentos/HTML/HTML.md",
-    "1. Fundamentos/HTML/Conceptos Clave/Enlaces y Navegación.md",
-    "web-full-stack-learning",
-    "1. Fundamentos/HTML/Conceptos Clave/Formularios.md",
     "1. Fundamentos/CSS/CSS.md",
-    "1. Fundamentos/CSS/Selectors.md",
-    "1. Fundamentos/CSS/CSS Fundamentals.md",
+    "1. Fundamentos/1. Fundamentos.md",
+    "Plan de aprendizaje.md",
+    "Untitled.canvas",
+    "1. Fundamentos/HTML/Conceptos Relevantes/SEO.md",
+    "1. Fundamentos/HTML/Conceptos Clave/Imágenes y Multimedia.md",
+    "1. Fundamentos/HTML/HTML.md",
     "1. Fundamentos/HTML/Conceptos Clave/Etiquetas Semánticas.md",
     "1. Fundamentos/HTML/Conceptos Clave/Estructura Básica de un Documento HTML.md",
-    "Plan de aprendizaje.md",
+    "1. Fundamentos/HTML/Conceptos Clave/Listas y Tablas.md",
+    "1. Fundamentos/HTML/Conceptos Clave/Formularios.md",
+    "1. Fundamentos/HTML/Conceptos Clave/Enlaces y Navegación.md",
+    "1. Fundamentos/HTML/Conceptos Relevantes",
+    "web-full-stack-learning",
+    "1. Fundamentos/CSS/Selectors.md",
+    "1. Fundamentos/CSS/CSS Fundamentals.md",
     "1. Fundamentos/HTML/Conceptos Clave",
     "1. Fundamentos.md",
     "1_Estructura.md",
@@ -179,7 +189,6 @@
     "2. Desarrollo Front-End/State Management",
     "2. Front-End Development/State Management.md",
     "2. Front-End Development/Frameworks & Libraries.md",
-    "2. Desarrollo Front-End/Frameworks & Libraries/Untitled",
     "Prueba.md",
     "Prueba 2.md",
     "hola.md.md",
