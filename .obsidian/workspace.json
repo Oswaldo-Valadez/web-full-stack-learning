@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Fundamentos/1. Fundamentos.md",
+                "file": "1. Fundamentos/CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Fundamentos/1. Fundamentos.md",
+                "file": "1. Fundamentos/CSS/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Fundamentos/1. Fundamentos.md",
+                "file": "1. Fundamentos/CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Fundamentos/1. Fundamentos.md"
+                "file": "1. Fundamentos/CSS/CSS.md"
               }
             }
           },
@@ -156,13 +156,26 @@
   },
   "active": "0f7a237102aaae54",
   "lastOpenFiles": [
+    "1. Fundamentos/CSS/Conceptos Clave/Introducción a CSS.md",
+    "1. Fundamentos/CSS/Conceptos Clave/Grid.md",
+    "1. Fundamentos/CSS/Conceptos Clave/Flexbox.md",
+    "Assets/Pasted image 20240819231132.png",
+    "Assets/Pasted image 20240819231059.png",
+    "1. Fundamentos/CSS/Conceptos Clave/El Modelo de Caja (Box Model).md",
+    "1. Fundamentos/CSS/Conceptos Clave/Animaciones y Transiciones.md",
     "1. Fundamentos/CSS/CSS.md",
+    "Assets/Pasted image 20240819224040.png",
+    "1. Fundamentos/HTML/HTML.md",
+    "1. Fundamentos/CSS/Conceptos Relevantes/Propiedades de CSS.md",
+    "1. Fundamentos/CSS/Conceptos Relevantes/Selectores de CSS.md",
+    "1. Fundamentos/CSS/Conceptos Relevantes/La Cascada y la Herencia en CSS.md",
+    "1. Fundamentos/CSS/Conceptos Relevantes",
+    "1. Fundamentos/CSS/Conceptos Clave",
     "1. Fundamentos/1. Fundamentos.md",
     "Plan de aprendizaje.md",
     "Untitled.canvas",
     "1. Fundamentos/HTML/Conceptos Relevantes/SEO.md",
     "1. Fundamentos/HTML/Conceptos Clave/Imágenes y Multimedia.md",
-    "1. Fundamentos/HTML/HTML.md",
     "1. Fundamentos/HTML/Conceptos Clave/Etiquetas Semánticas.md",
     "1. Fundamentos/HTML/Conceptos Clave/Estructura Básica de un Documento HTML.md",
     "1. Fundamentos/HTML/Conceptos Clave/Listas y Tablas.md",
@@ -177,21 +190,11 @@
     "1_Estructura.md",
     "1..md",
     "Exercism.md",
-    "1. Fundamentos/JavaScript/JavaScript.md",
-    "().md",
     "Assets/Pasted image 20240817232144.png",
     "Assets",
     "4. Integración Full-Stack/Git",
     "3. Desarrollo Back-End/APIs",
     "3. Desarrollo Back-End/Databases",
-    "3. Desarrollo Back-End/Server-Side Languages",
-    "2. Desarrollo Front-End/UI-UX Design",
-    "2. Desarrollo Front-End/State Management",
-    "2. Front-End Development/State Management.md",
-    "2. Front-End Development/Frameworks & Libraries.md",
-    "Prueba.md",
-    "Prueba 2.md",
-    "hola.md.md",
-    "test.md"
+    "3. Desarrollo Back-End/Server-Side Languages"
   ]
 }

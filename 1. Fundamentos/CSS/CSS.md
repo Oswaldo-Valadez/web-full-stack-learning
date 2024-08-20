@@ -4,22 +4,22 @@ Dominar CSS para diseñar visualmente atractivas y responsivas páginas web, uti
 
 #### **Conceptos Clave**
 
-1. **Introducción a CSS**
+1. **[[Introducción a CSS]]**
     - **Sintaxis Básica:** Comprender la estructura de las reglas CSS: selector, propiedad y valor.
     - **Inclusión de CSS:** Diferentes maneras de aplicar CSS: interna, externa y en línea.
     - **Selectores:** Uso de selectores de tipo, clase, ID, atributo, y pseudo-clases/pseudo-elementos para aplicar estilos específicos.
-2. **El Modelo de Caja (Box Model)**
+2. **[[El Modelo de Caja (Box Model)]]**
     - **Concepto de Box Model:** Comprender cómo `margin`, `border`, `padding`, y `content` definen el diseño de cada elemento.
     - **Box-sizing:** Uso de `box-sizing` para alterar el comportamiento predeterminado del modelo de caja.
 3. **Diseño Visual con CSS**
     - **Colores y Fondos:** Aplicación de colores utilizando nombres, hexadecimales, RGB, y HSL. Uso de imágenes y gradientes en fondos.
     - **Tipografía:** Importación y uso de fuentes web, ajuste de tamaño, estilo, y espaciado de texto.
     - **Listas y Bordes:** Personalización de listas y diseño de bordes (incluido bordes redondeados).
-4. **Flexbox y Grid**
+4. **[[Flexbox]] y [[Grid]]**
     - **Flexbox:** Manejo de diseño flexible para alinear y distribuir espacio entre ítems de un contenedor.
     - **Grid:** Creación de diseños de página complejos y responsivos con CSS Grid.
     - **Responsive Design:** Uso de consultas de medios (media queries) para adaptar el diseño a diferentes tamaños de pantalla.
-5. **Animaciones y Transiciones**
+5. **[[Animaciones y Transiciones]]**
     - **Transiciones:** Uso de `transition` para efectos suaves en propiedades CSS.
     - **Animaciones:** Creación de animaciones clave con `@keyframes` y la propiedad `animation`.
 6. **Preprocesadores CSS**
