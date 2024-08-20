@@ -11,11 +11,10 @@
             "id": "0ef68caf8b3d4c82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "1. Fundamentos/HTML/Conceptos Clave/Enlaces y Navegación.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Fundamentos/HTML/Conceptos Clave/Enlaces y Navegación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Fundamentos/HTML/Conceptos Clave/Enlaces y Navegación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Fundamentos/HTML/Conceptos Clave/Enlaces y Navegación.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,11 +151,11 @@
   },
   "active": "0ef68caf8b3d4c82",
   "lastOpenFiles": [
-    "web-full-stack-learning",
-    "1. Fundamentos/HTML/HTML.md",
     "1. Fundamentos/1. Fundamentos.md",
-    "1. Fundamentos/HTML/Conceptos Clave/Formularios.md",
+    "1. Fundamentos/HTML/HTML.md",
     "1. Fundamentos/HTML/Conceptos Clave/Enlaces y Navegación.md",
+    "web-full-stack-learning",
+    "1. Fundamentos/HTML/Conceptos Clave/Formularios.md",
     "1. Fundamentos/CSS/CSS.md",
     "1. Fundamentos/CSS/Selectors.md",
     "1. Fundamentos/CSS/CSS Fundamentals.md",
@@ -185,7 +180,6 @@
     "2. Front-End Development/State Management.md",
     "2. Front-End Development/Frameworks & Libraries.md",
     "2. Desarrollo Front-End/Frameworks & Libraries/Untitled",
-    "2. Desarrollo Front-End/Frameworks & Libraries",
     "Prueba.md",
     "Prueba 2.md",
     "hola.md.md",
